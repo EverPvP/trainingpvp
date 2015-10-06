@@ -1,0 +1,30 @@
+NO_PERMISSION: '&cYou don’t have the permission to do this!'
+WAITING_FOR_OPPONENTS: '&aWaiting for your opponents!'
+WIN_MESSAGE: '&aYou won!'
+LOSE_MESSAGE: '&bYou lost!'
+PARTY_CREATED: '&aCreated a new party!'
+INVITE_PARTY_PLAYERS: '&aInvite players for your party with /party invite <Name>'
+PARTY_DELETED: '&aDeleted your party!'
+JOINED_PARTY: '&a<Player> &bHas joined your party!'
+YOU_JOINED_PARTY: '&aYou’ve joined the party!'
+YOU_LEFT_PARTY: '&aYou’ve left the party!'
+PLAYER_LEFT_PARTY: '&a<Player> has left the party!'
+YOU_GOT_KICKED_FROM_PARTY: '&aYou’ve been kicked from your party!'
+PLAYER_KICKED_FROM_PARTY: '&b<Player> has been kicked from your party!'
+PARTY_FULL: '&cThis party is currently full!'
+NO_ARENAS_AVAILABLE: '&cThere are currently no arena’s available! Try again later!'
+UNKNOWN_PLAYER: '&cUnkown player?'
+UNKNOWN_PARTY: '&cUnkown Party?'
+PLAYER_DIED: <Player> died! That team has <Amount> left!
+PARTY_NEEDS_2_PLAYERS: '&4Your party needs at least 2 players to do this!'
+NOT_PARTY_LEADER: '&4You have to be the party leader to do this!'
+ALREADY_IN_A_GAME: '&aYou are already in a game!'
+YOU_ARE_NOT_IN_A_PARTY: '&aYou are not in a party! Create one with /party create'
+PLAYER_NOT_IN_A_PARTY: '&a<Player> is not in a party!'
+
+items:
+   battle-selector: &aBattle Selector
+   party-creator: &bParty Creator
+   party-show: &aYour Party
+   party-list: &bParty List
+   party-leave: &cLeave your party!
