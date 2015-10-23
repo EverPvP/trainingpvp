@@ -13,9 +13,9 @@ YOU_GOT_KICKED_FROM_PARTY: '&aYou’ve been kicked from your party!'
 PLAYER_KICKED_FROM_PARTY: '&b<Player> has been kicked from your party!'
 PARTY_FULL: '&cThis party is currently full!'
 NO_ARENAS_AVAILABLE: '&cThere are currently no arena’s available! Try again later!'
-UNKNOWN_PLAYER: '&cUnkown player?'
-UNKNOWN_PARTY: '&cUnkown Party?'
-PLAYER_DIED: <Player> died! That team has <Amount> left!
+UNKNOWN_PLAYER: '&cUkendt spiller?'
+UNKNOWN_PARTY: '&cUkendt hold?'
+PLAYER_DIED: <Player> døde! Det hold har nu <Amount> tilbage!
 PARTY_NEEDS_2_PLAYERS: '&4Your party needs at least 2 players to do this!'
 NOT_PARTY_LEADER: '&4You have to be the party leader to do this!'
 ALREADY_IN_A_GAME: '&aYou are already in a game!'
